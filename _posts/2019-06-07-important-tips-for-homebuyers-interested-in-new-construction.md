@@ -19,7 +19,9 @@ youtube_code: t9z1_j409nQ
 
 {% include youtube.html %}
 
-<center>Thinking about buying a brand-new home? Read this first before you start the process.</center>
+<center><em>Thinking about buying a brand-new home? Read this first before you start the process.</em></center>
+
+&nbsp;
 
 New home construction has been a popular topic of conversation amongst buyers in our market as of late. Today I’m going to take you through everything you need to know about brand-new homes, including all the advantages (and disadvantages) of purchasing one if you’re in the market for a new home.
 
