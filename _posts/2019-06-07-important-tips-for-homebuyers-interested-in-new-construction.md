@@ -27,7 +27,7 @@ New home construction has been a popular topic of conversation amongst buyers in
 
 One of the things that happens a lot with new home construction is that a buyer will drive by a construction site, stop in the office, and see the models in person. However, there’s a problem that you’ll run into with this. **In order to have representation as a buyer in this transaction, your agent will need to have procuring cause**. This means that your agent must bring you to the property the first time to get you registered.
 
-Why is it so important to have representation as a homebuyer in this situation? There are a lot of reasons, but one of the main ones include having expert assistance in the negotiation process. **We can use our expertise to gain a lot of knowledge about the builder, the incentives that they’ve been offering, and what their recent sales have gone for**. This way, we can get you a much better deal than you’d be able to get on your own. That might come in the form of free upgrades, discounted closing costs, or a longer home warranty.
+Why is it so important to have representation as a homebuyer in this situation? There are a lot of reasons, but one of the main ones includes having expert assistance in the negotiation process. **We can use our expertise to gain a lot of knowledge about the builder, the incentives that they’ve been offering, and what their recent sales have gone for**. This way, we can get you a much better deal than you’d be able to get on your own. That might come in the form of free upgrades, discounted closing costs, or a longer home warranty.
 
 {% include pullquote.html %}
 
