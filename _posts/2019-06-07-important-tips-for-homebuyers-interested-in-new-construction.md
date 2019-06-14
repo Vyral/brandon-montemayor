@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Thinking about buying a brand-new home? Read this first before you start the
   process.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/Santa+Clarita+Valley+Real+Estate+-+Important+Tips+for+Homebuyers+Interested+in+New+Construction.mp4
 pullquote: Some of these builders will try to offer you cash or upgrades.
 enclosure_type: video/mp4
 enclosure_time:
