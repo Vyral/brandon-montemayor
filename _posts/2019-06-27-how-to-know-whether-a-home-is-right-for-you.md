@@ -20,7 +20,9 @@ youtube_code: lsuw-3_-yeE
 
 {% include youtube.html %}
 
-<center>There are five questions every homebuyer must ask themselves to know whether they’ve found the right home.</center>
+<center><em>There are five questions every homebuyer must ask themselves to know whether they&rsquo;ve found the right home.</em></center>
+
+&nbsp;
 
 Here are the five questions you must ask yourself to know whether a home is right for you:
 
