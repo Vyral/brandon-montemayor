@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are five questions every homebuyer must ask themselves to know whether
   they’ve found the right home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/How+to+Know+Whether+a+Home+Is+Right+for+You.mp4
 pullquote: >-
   You don’t want to buy something today only to end up wishing a year from now
   that you bought something a little bigger.
