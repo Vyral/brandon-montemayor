@@ -19,7 +19,7 @@ youtube_code: qcBIS_nArRI
 
 {% include youtube.html %}
 
-As we near the end of summer, the window of opportunity is now for buyers and sellers.
+<center>As we near the end of summer, the window of opportunity is now for buyers and sellers.</center>
 
 We’re well into August, which means it’s time for a quick Santa Clarita market update and a primer on what you can expect for the rest of 2019.
 
