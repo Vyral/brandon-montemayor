@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   As we near the end of summer, the window of opportunity is now for buyers and
   sellers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/Why+Now+Is+the+Time+for+Buyers+and+Sellers+to+Act.mp4
 pullquote: The window of opportunity is now for buyers and sellers.
 enclosure_type: video/mp4
 enclosure_time:
