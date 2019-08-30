@@ -21,7 +21,9 @@ youtube_code: E2UTgutVMpg
 
 {% include youtube.html %}
 
-<center>‘Procuring cause’ is a very important concept in real estate. Here’s what you need to know.</center>
+<center><em>&lsquo;Procuring cause&rsquo; is a very important concept in real estate. Here&rsquo;s what you need to know.</em></center>
+
+&nbsp;
 
 **The procuring cause of a real estate transaction is an agent who sets into motion the series of events that lead to the final sale of your property**. Since the agent was the one who ultimately caused the buyer to purchase your home, they’re entitled to compensation in the form of commission.
 
