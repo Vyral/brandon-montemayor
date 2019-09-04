@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   ‘Procuring cause’ is a very important concept in real estate. Here’s what you
   need to know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/Explaining+the+Concept+of+Procuring+Cause.mp4
 pullquote: >-
   Sometimes, however, there are agents who unethically declare themselves the
   procuring cause of a transaction.
