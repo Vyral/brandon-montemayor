@@ -1,12 +1,12 @@
 audit_header: false
-title: Santa Clara Real Estate Video Blog with Brandon Montemayor
+title: Santa Clarita Real Estate Video Blog with Brandon Montemayor
 description: >-
   Our mission at Montemayor & Associates is to be your best resource for Santa
-  Clara real estate advice. Whether you are a buyer, seller, or investor, our
+  Clarita real estate advice. Whether you are a buyer, seller, or investor, our
   team of professionals can answer any questions you might have about real
   estate. If you are looking to buy or sell a home, you can get all the
   information and the latest updates, tips, and tricks from The Montemayor &
-  Associates, your professional Santa Clara Real Estate Agents.
+  Associates, your professional Santa Clarita Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -49,7 +49,7 @@ CTAs:
     http://myscvhomefinder.com/search#?q_limit=36&q_prioritize=agents.0.id=F207098400%7Coffice.id=FF7000252&mlsId=347&status=1%7C3&q_sort=createdAt-&q_offset=0
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: What’s Your Santa Clara Home Worth?
+    CTA_title: What’s Your Santa Clarita Home Worth?
     CTA_text: >-
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
@@ -57,7 +57,7 @@ sidebar_CTA:
     CTA_url: 'http://myscvhomefinder.com/home_value'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: Looking for a Santa Clara Home?
+    CTA_title2: Looking for a Santa Clarita Home?
     CTA_text2: Search the entire MLS for your Santa Clara home.
     CTA_link_text2: Search the MLS
     CTA_url2: >-
@@ -90,20 +90,20 @@ socials:
   podcast_url: >-
     https://itunes.apple.com/us/podcast/santa-clarita-valley-real/id1178772996?mt=2
 podcast:
-  title: Santa Clara Real Estate Podcast with Brandon Montemayor
+  title: Santa Clarita Real Estate Podcast with Brandon Montemayor
   categories:
     - Education
   image: /img/podcast.jpg
   subtitle: >-
     Learn all the tips, tricks and more for buyers and sellers in the Santa
-    Clara Area Real Estate Market
+    Clarita Area Real Estate Market
   description: >-
     If you are looking to buy or sell a home, get all the information and the
     latest updates, tips, and tricks from Montemayor & Associates - your
-    professional Santa Clara Real Estate Agents.
+    professional Santa Clarita Real Estate Agents.
   keywords: >-
     Real Estate for sale, Real Estate agents, top real estate agents, local real
-    estate agents, find a real estate agent, houses for sale in Santa Clara,
+    estate agents, find a real estate agent, houses for sale in Santa Clarita,
     home selling tips, home for sale, home buying, home buying process, property
     finder, property search, property, real estate market, estate agent,
     realestate, real estate listings, buying a house, homes for sale, mls, home
@@ -113,7 +113,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: Santa Clara Real Estate Video Blog
+  hero_text: Santa Clarita Real Estate Video Blog
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
