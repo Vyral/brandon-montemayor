@@ -20,7 +20,7 @@ youtube_code: oHVD9rJDqsk
 
 {% include youtube.html %}
 
-How many smoke and carbon monoxide detectors do you actually need in your home?
+<center>How many smoke and carbon monoxide detectors do you actually need in your home?</center>
 
 One of the questions we’ve been hearing a lot lately from clients is, “Where are smoke and carbon monoxide detectors required in my home?”
 
