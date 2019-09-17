@@ -12,7 +12,7 @@ title: How to Protect Your Home From Burglars
 date: '2018-03-14T09:14:00.001-07:00'
 author: Vyral Marketing
 tags:
-- Home Owner Tips
+- Real Estate
 modified_time: '2018-03-16T11:47:09.957-07:00'
 thumbnail: https://i.ytimg.com/vi/Ud2C2K5z4pk/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-3055000763482342691
