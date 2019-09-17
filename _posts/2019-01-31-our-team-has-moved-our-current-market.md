@@ -14,7 +14,6 @@ author: Vyral Marketing
 tags:
 - Market Update
 - Real Estate
-- Santa Clarita
 modified_time: '2019-02-01T12:23:24.322-08:00'
 thumbnail: https://i.ytimg.com/vi/9ncGxiFYwDc/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-4332405705912579088
