@@ -12,7 +12,7 @@ title: A Few Money Saving Tips for Homeowners
 date: '2018-02-28T13:13:00.000-08:00'
 author: Vyral Marketing
 tags:
-- Home Owner Tips
+- Real Estate
 modified_time: '2018-03-02T09:57:06.755-08:00'
 thumbnail: https://i.ytimg.com/vi/YXktuiyiY7g/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-6220900859606505666
