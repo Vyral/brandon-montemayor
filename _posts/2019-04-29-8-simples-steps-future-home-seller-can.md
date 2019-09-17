@@ -14,7 +14,6 @@ author: Vyral Marketing
 tags:
 - Home Seller Tips
 - Real Estate
-- Santa Clarita
 modified_time: '2019-05-02T12:43:18.090-07:00'
 thumbnail: https://i.ytimg.com/vi/zsg9PgUHMwE/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-6826212686874699771
