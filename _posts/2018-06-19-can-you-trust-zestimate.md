@@ -12,9 +12,7 @@ title: Can You Trust a Zestimate?
 date: '2018-06-19T11:10:00.001-07:00'
 author: Vyral Marketing
 tags:
-- Zillow
 - Home Seller Tips
-- Home Buyer Tips
 modified_time: '2018-06-20T11:54:33.923-07:00'
 thumbnail: https://i.ytimg.com/vi/g2e5sxAz5qk/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-8619413278267335016
