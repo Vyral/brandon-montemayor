@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-12---brandon-montemayor---email.jpg
-youtube_code: oHVD9rJDqsk
+youtube_code: E1zE8rTFWd4
 ---
 
 {% include youtube.html %}
