@@ -12,7 +12,7 @@ title: What Should You Do If Your Property Taxes Are Too High?
 date: '2018-01-31T11:21:00.000-08:00'
 author: Vyral Marketing
 tags:
-- Property Taxes
+- Real Estate
 modified_time: '2018-01-31T11:21:03.369-08:00'
 thumbnail: https://i.ytimg.com/vi/yu3hEtpTqq8/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-519654199342823987
