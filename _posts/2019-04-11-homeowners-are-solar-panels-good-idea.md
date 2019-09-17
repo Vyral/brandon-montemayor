@@ -12,10 +12,7 @@ title: 'Homeowners: Are Solar Panels a Good Idea?'
 date: '2019-04-11T13:56:00.000-07:00'
 author: Vyral Marketing
 tags:
-- Homeowner Tips
-- Solar Energy
 - Real Estate
-- Santa Clarita
 modified_time: '2019-04-18T13:46:27.782-07:00'
 thumbnail: https://i.ytimg.com/vi/ro5SCyv8VPQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-8699125084021976804
