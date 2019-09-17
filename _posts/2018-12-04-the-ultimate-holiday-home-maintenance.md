@@ -12,10 +12,7 @@ title: The Ultimate Holiday Home Maintenance Checklist
 date: '2018-12-04T14:18:00.000-08:00'
 author: Vyral Marketing
 tags:
-- Homeowner Tips
 - Real Estate
-- Home Maintenance
-- Santa Clarita
 modified_time: '2018-12-07T06:55:04.412-08:00'
 thumbnail: https://i.ytimg.com/vi/ttRM0XSlISI/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-2406249943864688184
