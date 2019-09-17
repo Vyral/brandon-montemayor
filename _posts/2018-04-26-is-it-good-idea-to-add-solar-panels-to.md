@@ -12,8 +12,6 @@ title: Is It a Good Idea to Add Solar Panels to Your Home?
 date: '2018-04-26T09:56:00.001-07:00'
 author: Vyral Marketing
 tags:
-- Solar Energy
-- Home Owner Tips
 - Real Estate
 modified_time: '2018-04-27T12:24:20.116-07:00'
 thumbnail: https://i.ytimg.com/vi/TudqI5gUE_E/default.jpg
