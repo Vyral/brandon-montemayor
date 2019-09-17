@@ -12,9 +12,7 @@ title: What You Should Do Before Buying a Vacation Home
 date: '2018-11-09T12:57:00.001-08:00'
 author: Vyral Marketing
 tags:
-- Charleston
-- Retirement
-- Vacation Properties
+- Home Buyer Tips
 modified_time: '2018-11-12T11:27:59.552-08:00'
 thumbnail: https://i.ytimg.com/vi/kfkCina_WWA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-7841572546340254267
