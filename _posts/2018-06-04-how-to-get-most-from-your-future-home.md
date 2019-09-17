@@ -13,7 +13,7 @@ date: '2018-06-04T11:12:00.000-07:00'
 author: Vyral Marketing
 tags:
 - Home Seller Tips
-- Santa Clarita
+- Real Estate
 modified_time: '2018-06-05T10:04:17.237-07:00'
 thumbnail: https://i.ytimg.com/vi/HSfvOAsVYAs/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-3214676610699665837
