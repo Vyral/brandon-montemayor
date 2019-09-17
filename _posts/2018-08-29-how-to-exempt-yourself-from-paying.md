@@ -12,7 +12,7 @@ title: How to Exempt Yourself From Paying Capital Gains on Equity
 date: '2018-08-29T10:02:00.003-07:00'
 author: Vyral Marketing
 tags:
-- 1031 Exchange
+- Real Estate
 modified_time: '2018-08-30T10:14:30.608-07:00'
 thumbnail: https://i.ytimg.com/vi/J-OT_wMvIQs/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-3335142794949749608
