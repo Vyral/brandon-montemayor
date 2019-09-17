@@ -13,7 +13,7 @@ date: '2018-05-22T09:27:00.001-07:00'
 author: Vyral Marketing
 tags:
 - Market Update
-- Santa Clarita
+- Real Estate
 modified_time: '2018-05-22T09:28:43.791-07:00'
 thumbnail: https://i.ytimg.com/vi/Tr4mAxkzaYQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-1017680637063456847.post-2590155695437035919
