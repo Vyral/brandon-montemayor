@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   How many smoke and carbon monoxide detectors do you actually need in your
   home?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/Where+to+Place+Smoke+and+Carbon+Monoxide+Detectors.mp4
 pullquote: >-
   Landlords and investors are responsible for the detectors in any properties
   they own.
