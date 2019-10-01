@@ -20,7 +20,7 @@ youtube_code: hfQEWeTfT3w
 
 {% include youtube.html %}
 
-Home inspections are a complex process, so today we’d like to share an expert’s answers on a couple of common questions we receive about them.
+<center>Home inspections are a complex process, so today we’d like to share an expert’s answers on a couple of common questions we receive about them.</center>
 
 Our team recently reached out to a home inspector who we’ve worked with numerous times in the past with a couple of questions we often hear from buyers, sellers, and homeowners like you.
 
