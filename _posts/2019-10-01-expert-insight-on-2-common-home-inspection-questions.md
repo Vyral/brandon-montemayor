@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expert Insight on 2 Common Home Inspections
+title: Expert Insight on 2 Common Home Inspection Questions
 date: 2019-10-01 00:00:00
 tags:
   - Real Estate
