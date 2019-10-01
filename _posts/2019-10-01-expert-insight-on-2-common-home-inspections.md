@@ -8,7 +8,7 @@ tags:
   - Home Seller Tips
 excerpt: >-
   Home inspections are a complex process, so today we’d like to share an
-  expert’s answers on a couple of common questions we receive about them.
+  expert’s answers on a couple of common questions we've received.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
