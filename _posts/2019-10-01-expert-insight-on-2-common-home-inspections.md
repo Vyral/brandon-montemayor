@@ -28,7 +28,7 @@ Our team recently reached out to a home inspector who we’ve worked with numero
 
 We’re going to share each of these questions, as well as the answers we received from our inspector, with you today.
 
-***“What are the five most common issues found during home inspections?”***
+**“What are the five most common issues found during home inspections?”**
 
 * Missing anti-tip brackets on ranges or ovens.
 * Missing damper stops on gas fireplaces.
@@ -36,7 +36,7 @@ We’re going to share each of these questions, as well as the answers we receiv
 * Missing and/or defective GFCI (ground fault circuit interrupter) devices.
 * Failed water pressure regulators.
 
-***“What are the easiest fixes with the highest replacement cost if left unresolved?”***
+**“What are the easiest fixes with the highest replacement cost if left unresolved?”**
 
 * Small water leaks
 * Loose toilets
