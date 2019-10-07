@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Home inspections are a complex process, so today we’d like to share an
   expert’s answers on a couple of common questions we've received.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/Expert+Insight+on+2+Common+Home+Inspection+Questions.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
