@@ -13,13 +13,13 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/10-15---brandon-montemayor---yt.jpg
 youtube_code: QtyBvUT5dOA
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>What 10 home maintenance items should all homeowners do to protect their property? Let’s discuss.</em></p>
+*What 10 home maintenance items should all homeowners do to protect their property? Let’s discuss.*
 
 Welcome back to our Home Inspection Information Session series. In part one, we went over a list shared to us by one of the area’s premier home inspectors on the five most common issues he sees during home inspections.
 
