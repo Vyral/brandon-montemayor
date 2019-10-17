@@ -19,7 +19,7 @@ youtube_code: QtyBvUT5dOA
 
 {% include youtube.html %}
 
-What 10 home maintenance items should all homeowners do to protect their property? Let’s discuss.
+<p style="text-align:center;"><em>What 10 home maintenance items should all homeowners do to protect their property? Let’s discuss.</em></p>
 
 Welcome back to our Home Inspection Information Session series. In part one, we went over a list shared to us by one of the area’s premier home inspectors on the five most common issues he sees during home inspections.
 
