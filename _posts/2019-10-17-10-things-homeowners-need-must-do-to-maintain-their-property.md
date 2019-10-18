@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 Things Homeowners Need Must Do to Maintain Their Property
+title: 10 Things Homeowners Must Do to Maintain Their Property
 date: 2019-10-17 21:08:00
 tags:
   - Real Estate
