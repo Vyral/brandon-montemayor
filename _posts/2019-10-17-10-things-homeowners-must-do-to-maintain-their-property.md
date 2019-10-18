@@ -23,14 +23,14 @@ youtube_code: QtyBvUT5dOA
 
 Welcome back to our Home Inspection Information Session series. In part one, we went over a list shared to us by one of the area’s premier home inspectors on the five most common issues he sees during home inspections.
 
-You can find part one [here](https://marealestatescv.com/expert-insight-on-2-common-home-inspection-questions.html){: target="_blank"}, but, for now, let’s dive in our second installment. **This time, we’ll cover 10 maintenance tasks homeowners must stay on top of to keep their homes in tip-top shape:&nbsp;**
+You can find part one [here](https://marealestatescv.com/expert-insight-on-2-common-home-inspection-questions.html){: target="_blank"}, but, for now, let’s dive into our second installment. **This time, we’ll cover 10 maintenance tasks homeowners must stay on top of to keep their homes in tip-top shape:&nbsp;**
 
 1. Check your roof for damage at least twice a year.&nbsp;
 2. Regularly check the operation of your GFCI devices by plugging in a small light and pressing the outlet’s “reset” button.
 3. Get an annual inspection of all your home’s plumbing fixtures.&nbsp;
 4. Get your water heater flushed every year.&nbsp;
 5. Keep your dryer ducts clean.&nbsp;
-6. Lubricate the joints of your garage doors every year
+6. Lubricate the joints of your garage doors every year.&nbsp;
 7. Clean and grease up the tracts of your windows and sliding glass doors.
 8. Trim and weed your landscaping every month.
 9. Get an attic inspection every year to check for pests, leaks, mold, or other problems.
