@@ -17,7 +17,7 @@ youtube_code: NIp1Q6xXzi0
 
 {% include youtube.html %}
 
-There are five reasons why now is a great time to sell.
+<center>There are five reasons why now is a great time to sell.</center>
 
 Are you better off selling your home now or waiting until fall and winter are over?
 
