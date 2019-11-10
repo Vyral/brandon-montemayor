@@ -19,11 +19,11 @@ youtube_code: QtyBvUT5dOA
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>What 10 home maintenance items should all homeowners do to protect their property? Let’s discuss.</em></p>
+*What 10 home maintenance items should all homeowners do to protect their property? Let’s discuss.*
 
 Welcome back to our Home Inspection Information Session series. In part one, we went over a list shared to us by one of the area’s premier home inspectors on the five most common issues he sees during home inspections.
 
-You can find part one [here](https://marealestatescv.com/expert-insight-on-2-common-home-inspection-questions.html){: target="_blank"}, but, for now, let’s dive into our second installment. **This time, we’ll cover 10 maintenance tasks homeowners must stay on top of to keep their homes in tip-top shape:&nbsp;**
+[You can find part one](https://marealestatescv.com/expert-insight-on-2-common-home-inspection-questions.html){: target="_blank"}[here](https://marealestatescv.com/expert-insight-on-2-common-home-inspection-questions.html){: target="_blank"}, but, for now, let’s dive into our second installment. **This time, we’ll cover 10 maintenance tasks homeowners must stay on top of to keep their homes in tip-top shape:&nbsp;**
 
 1. Check your roof for damage at least twice a year.&nbsp;
 2. Regularly check the operation of your GFCI devices by plugging in a small light and pressing the outlet’s “reset” button.
