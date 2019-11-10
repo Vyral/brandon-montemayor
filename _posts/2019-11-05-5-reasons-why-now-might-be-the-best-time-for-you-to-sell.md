@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: There are five reasons why now is a great time to sell.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/5+Reasons+Why+Now+Might+Be+the+Best+Time+for+You+to+Sell.mp4
 pullquote: The best agents can step up at any time of the year.
 enclosure_type: video/mp4
 enclosure_time:
