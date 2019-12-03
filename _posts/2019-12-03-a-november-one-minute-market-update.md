@@ -1,6 +1,6 @@
 ---
 layout: post
-title: November One-Minute Market Update
+title: A November One-Minute Market Update
 date: 2019-12-03 00:00:00
 tags:
   - Real Estate
