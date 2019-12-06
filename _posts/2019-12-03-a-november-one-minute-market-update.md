@@ -23,7 +23,7 @@ youtube_code: pDWySO6JI7I
 
 <br>We haven’t discussed what the market’s doing in a while. We’re rolling into the end of the year. People are preparing for 2020. So, it’s always great to know what’s happening in the market.
 
-So, let’s jump into our one-minute market update. As of right now, there are 391 active homes on the Santa Clarita real estate market. 377 homes that are in escrow, and over the last 30 days we have 284 that have closed. So, what does that mean? **It means inventory is down**. When in a balanced market, Santa Clarita has somewhere between 800 to 1200 homes on the market, that’s normal, so we are exceptionally low, but we are hearing from many sellers who are saying they’re waiting until after the holidays to list their homes. Homes are still closing\!
+Let’s jump into our one-minute market update. As of right now, there are 391 active homes on the Santa Clarita real estate market. 377 homes that are in escrow, and over the last 30 days we have 284 that have closed. So, what does that mean? **It means inventory is down**. When in a balanced market, Santa Clarita has somewhere between 800 to 1,200 homes on the market, that’s normal, so we are exceptionally low, but we are hearing from many sellers who are saying they’re waiting until after the holidays to list their homes. Homes are still closing\!
 
 **Here’s a breakdown of what those 391 active listings look like:**
 
