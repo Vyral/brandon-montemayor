@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s our latest one-minute market update for November.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/A+November+One-Minute+Market+Update.mp4
 pullquote: >-
   As of right now, there are 391 active homes on the Santa Clarita real estate
   market.
