@@ -5,7 +5,7 @@ date: 2019-12-23 00:00:00
 tags:
   - Real Estate
   - Market Update
-excerpt: Heading into 2020 we have a strong market for the foreseeable future.
+excerpt: 'Heading into 2020, we have a strong market for the foreseeable future.'
 enclosure:
 pullquote: >-
   More bidding wars and more buyer activity, in general, will incentivize
@@ -19,7 +19,7 @@ youtube_code: 8caEs-7R6Tg
 
 {% include youtube.html %}
 
-<center><em>Heading into 2020 we have a strong market for the foreseeable future.</em></center>
+<center><em>Heading into 2020, we have a strong market for the foreseeable future.</em></center>
 
 <br>Now that 2019 is coming to an end it’s time to share my predictions for the 2020 real estate market.
 
