@@ -19,7 +19,9 @@ youtube_code: 8caEs-7R6Tg
 
 {% include youtube.html %}
 
-Now that 2019 is coming to an end it’s time to share my predictions for the 2020 real estate market.
+<center><em>Heading into 2020 we have a strong market for the foreseeable future.</em></center>
+
+<br>Now that 2019 is coming to an end it’s time to share my predictions for the 2020 real estate market.
 
 We’re just now pulling out of the 2018 midyear downturn, and low interest rates have helped with this. Low inventory has also helped. As of the recording this video, there were 335 active listings in our market. Normally, we see anywhere from 800 to 1,000.
 
