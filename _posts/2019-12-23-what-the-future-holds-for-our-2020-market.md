@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'Heading into 2020, we have a strong market for the foreseeable future.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/What+the+Future+Holds+for+Our+2020+Market.mp4
 pullquote: >-
   More bidding wars and more buyer activity, in general, will incentivize
   builders and sellers to join the fray.
