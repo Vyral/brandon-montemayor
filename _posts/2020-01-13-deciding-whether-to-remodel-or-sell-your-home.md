@@ -4,6 +4,7 @@ title: Deciding Whether to Remodel or Sell Your Home
 date: 2020-01-13 00:00:00
 tags:
   - Real Estate
+  - Home Seller Tips
 excerpt: >-
   Should you remodel your home or just sell it and buy a new one? Here’s how we
   can help you answer this question.
