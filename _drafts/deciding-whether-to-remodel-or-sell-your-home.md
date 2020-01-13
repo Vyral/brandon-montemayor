@@ -20,7 +20,9 @@ youtube_code: '--TAB8iS7-8'
 
 {% include youtube.html %}
 
-If you’re waffling between selling your home outright and remodeling it to stay a while longer, &nbsp;Montemayor & Associates would love to help. Here the steps we’ll take you through if you work with us to get your home ready for either outcome:
+<center><em>Should you remodel your home or just sell it and buy a new one? Here’s how we can help you answer this question.</em></center>
+
+<br>If you’re waffling between selling your home outright and remodeling it to stay a while longer, &nbsp;Montemayor & Associates would love to help. Here the steps we’ll take you through if you work with us to get your home ready for either outcome:
 
 The first step you should take is to give the Montemayor & Associates Team a call so we can send your favorite team member out to your house. We’ll walk with you throughout your home and have you **point out all the things you’ll eventually want to do to prepare**, whether it’s a remodel or a sale.
 
