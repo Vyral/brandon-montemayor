@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Should you remodel your home or just sell it and buy a new one? Here’s how we
   can help you answer this question.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/Deciding+Whether+to+Remodel+or+Sell+Your+Home.mp4
 pullquote: >-
   It’s important to make the most of your time, money, and energy that you
   invest in the home.
