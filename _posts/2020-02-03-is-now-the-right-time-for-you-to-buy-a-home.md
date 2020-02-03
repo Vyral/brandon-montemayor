@@ -19,7 +19,7 @@ youtube_code: Hwt8NKaUglg
 
 {% include youtube.html %}
 
-<center><em>If you’re thinking about buying a home this year, there are a few things you should know first.</em></center>
+<center><em>If you&rsquo;re thinking about buying a home this year, there are a few things you should know first.</em></center>
 
 <br>We’re already rolling into February 2020. The market has started to pick back up, and we’ve been getting this question a lot: **Should I buy now or wait a few months?** Here are the facts that can help you make an educated decision on what’s best for you.
 
