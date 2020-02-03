@@ -19,7 +19,9 @@ youtube_code: Hwt8NKaUglg
 
 {% include youtube.html %}
 
-We’re already rolling into February 2020. The market has started to pick back up, and we’ve been getting this question a lot: **Should I buy now or wait a few months?** Here are the facts that can help you make an educated decision on what’s best for you.
+<center><em>If you’re thinking about buying a home this year, there are a few things you should know first.</em></center>
+
+<br>We’re already rolling into February 2020. The market has started to pick back up, and we’ve been getting this question a lot: **Should I buy now or wait a few months?** Here are the facts that can help you make an educated decision on what’s best for you.
 
 **First, let’s look at some trusted sources like CoreLogic, Fannie Mae, NAR, MBA, and Freddie Mac**. They have a long track record of correct predictions about the real estate market. What are they saying right now? Well, they’ve all predicted that purchase prices will rise by 2% to 5% over the next year. They have also predicted that interest rates will stay relatively flat.
 
