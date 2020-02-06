@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re thinking about buying a home this year, there are a few things you
   should know first.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/Is+Now+the+Right+Time+for+You+to+Buy+a+Home_.mp4
 pullquote: All of the experts are predicting modest home appreciation in 2020.
 enclosure_type: video/mp4
 enclosure_time:
