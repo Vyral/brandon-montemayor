@@ -17,7 +17,9 @@ youtube_code: BxB0iwPAazM
 
 {% include youtube.html %}
 
-We’re into March now, so I wanted to chat with you quickly about what the real estate market is doing here in Santa Clarita.
+<center><em>The Santa Clarita real estate market continues to be hot in 2020.</em></center>
+
+<br>We’re into March now, so I wanted to chat with you quickly about what the real estate market is doing here in Santa Clarita.
 
 **Active inventory is in the high 200s and there are currently 440 homes pending in the Santa Clarita Valley**. Over a 30-day period, we’re averaging around 250 closings per month.
 
