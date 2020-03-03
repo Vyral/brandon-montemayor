@@ -25,7 +25,7 @@ youtube_code: BxB0iwPAazM
 
 As you can see, we still have an unbelievable shortage of inventory, essentially just one month’s worth. A normal, balanced market has between four and six months of inventory.
 
-Showing Time, which is a company that helps agents set up showings, tracks how much buyer activity is going on. They are saying that buyer activity is up anywhere between 3% and 20% in different areas across the country. Home sales are up year over year in every region of the United States as well. The national inventory average is around three months, which we’ve never seen.
+Showing Time, which is a company that helps agents set up showings, tracks how much buyer activity is going on. They say buyer activity is up anywhere between 3% and 20% in different areas across the country. Home sales are up year over year in every region of the United States as well. The national inventory average is around three months, which we’ve never seen.
 
 {% include pullquote.html %}
 
