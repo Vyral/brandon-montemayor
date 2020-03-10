@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: The Santa Clarita real estate market continues to be hot in 2020.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/Whats+Going+on+in+Our+Real+Estate+Market+So+Far+in+2020_.mp4
 pullquote: We’ve never seen the national inventory average so low.
 enclosure_type: video/mp4
 enclosure_time:
