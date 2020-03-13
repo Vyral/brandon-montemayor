@@ -19,7 +19,7 @@ youtube_code: rp65TwhzVxQ
 
 {% include youtube.html %}
 
-<center><em>Contrary to popular belief, you can buy a home with less than 20% down—much less, in some cases.</em></center>
+<center><em>Contrary to popular belief, you can buy a home with less than 20% down&mdash;much less, in some cases.</em></center>
 
 <br>The idea that you need at least 20% down to buy a home is one of the biggest misconceptions in real estate, and it affects a lot of homebuyers because it causes them to wait to buy. While they wait, prices and interest rates go up.
 
