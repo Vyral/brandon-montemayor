@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Contrary to popular belief, you can buy a home with less than 20% down—much
   less, in some cases.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/What+Kind+of+Down+Payment+Do+You+Need_.mp4
 pullquote: 'The more you can put down, the safer you’re considered to be as a buyer.'
 enclosure_type: video/mp4
 enclosure_time:
