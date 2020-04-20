@@ -21,7 +21,7 @@ youtube_code: fEEcTjyELMo
 
 {% include youtube.html %}
 
-<center><em>I don’t think we’re going through a housing crisis like we did back in 2008, and today I’ll share five reasons why.</em></center>
+<center><em>I don&rsquo;t think we&rsquo;re going through a housing crisis like we did back in 2008, and today I&rsquo;ll share five reasons why.</em></center>
 
 <br>Recent events have caused many people to reach out and ask, “Is COVID-19 causing a housing crisis?” The quick answer is no. Many of us have experienced financial hardships and losses when it came to the recessions our country has gone through, but understand that the crisis we’re dealing with today is related to health, unlike the financial crisis of 2007 and 2008. There are five reasons why this isn’t a housing crisis:
 
