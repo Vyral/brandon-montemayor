@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   I don’t think we’re going through a housing crisis like we did back in 2008,
   and today I’ll share five reasons why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/5+Reasons+Why+We're+Not+in+a+Housing+Crisis.mp4
 pullquote: >-
   The COVID-19 crisis is creating different challenges for our nation compared
   to the housing crisis of 2008.
