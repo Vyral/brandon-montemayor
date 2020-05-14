@@ -42,7 +42,7 @@ client:
   email: Brandon@bringingyouhomescv.com
   url: 'http://bringingyouhomescv.com'
 CTAs:
-  first_CTA_text: Home Valuation
+  first_CTA_text: Receive a Home Valuation
   first_CTA_URL: 'http://myscvhomefinder.com/home_value'
   second_CTA_text: Home Search
   second_CTA_URL: >-
