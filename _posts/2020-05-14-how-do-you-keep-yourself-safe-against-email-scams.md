@@ -16,7 +16,7 @@ youtube_code: pRZbSPsv4bo
 
 {% include youtube.html %}
 
-<center><em>We can help you check whether you’re the target of a dangerous scam.</em></center>
+<center><em>We can help you check whether you&rsquo;re the target of a dangerous scam.</em></center>
 
 <br>First and foremost, I hope you and your family are safe and healthy during this unusual and stressful time.
 
