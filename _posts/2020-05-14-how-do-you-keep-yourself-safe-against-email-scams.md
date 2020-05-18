@@ -4,7 +4,7 @@ title: How Do You Keep Yourself Safe Against Email Scams?
 date: 2020-05-14 00:00:00
 tags:
   - Real Estate
-excerpt: We can help you check whether you’re the target of a dangerous scam.
+excerpt: We can help you check if you’re the target of a dangerous scam.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -16,7 +16,7 @@ youtube_code: pRZbSPsv4bo
 
 {% include youtube.html %}
 
-<center><em>We can help you check whether you&rsquo;re the target of a dangerous scam.</em></center>
+<center><em>We can help you check if you&rsquo;re the target of a dangerous scam.</em></center>
 
 <br>First and foremost, I hope you and your family are safe and healthy during this unusual and stressful time.
 
