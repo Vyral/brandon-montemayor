@@ -5,7 +5,8 @@ date: 2020-05-14 00:00:00
 tags:
   - Real Estate
 excerpt: We can help you check if you’re the target of a dangerous scam.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/How+Do+You+Keep+Yourself+Safe+Against+Email+Scams_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
