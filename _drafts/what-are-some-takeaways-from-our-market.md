@@ -17,7 +17,9 @@ youtube_code: IUd9LifeDv0
 
 {% include youtube.html %}
 
-What’s going on in this market of ours? As of the recording of this video, **there are 391 active and available homes in Santa Clarita**, and 197 have closed within the last 30 days—a move in the right direction after all of the COVID-19 slowdown. There are 486 homes in escrow at the moment, and it’s interesting to see more homes in escrow than are actively available in the market.
+<center><em>Here are the latest notes from our increasingly strong market.</em></center>
+
+<br>What’s going on in this market of ours? As of the recording of this video, **there are 391 active and available homes in Santa Clarita**, and 197 have closed within the last 30 days—a move in the right direction after all of the COVID-19 slowdown. There are 486 homes in escrow at the moment, and it’s interesting to see more homes in escrow than are actively available in the market.
 
 While the city of Los Angeles stopped showings, LA county did not, so we’re still out there showing homes. To make sure everyone stays safe, we’re having buyers sign disclosures letting us know that they have not (to the best of their knowledge) been exposed to COVID-19, nor are they experiencing any sort of symptoms of illness. They’re also wearing masks, gloves, shoe covers, and practicing distancing and diligent sanitization.
 
