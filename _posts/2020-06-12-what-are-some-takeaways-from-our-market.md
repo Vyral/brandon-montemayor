@@ -28,5 +28,3 @@ While the city of Los Angeles stopped showings, LA county did not, so we’re st
 Since **interest rates are amazing at the moment**, we have a lot of clients who are refinancing and then pulling out a home equity line of credit (HELOC), which allows you to borrow a certain amount of credit against your home that doesn’t have to all be used at once. People are now using HELOCs to fix up their homes, or have it available for investments. We’re seeing people take out anywhere from $50,000 to $250,000, with monthly payments roughly equating $130 for every $25,000 taken out.
 
 These are just a few of the most important market updates we wanted to share. If you need anything, give us a call or shoot us an email; we’re always here for you.
-
-&nbsp;
