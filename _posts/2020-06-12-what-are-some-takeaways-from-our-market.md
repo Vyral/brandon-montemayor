@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here are the latest notes from our increasingly strong market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/What+Are+Some+Takeaways+From+Our+Market_.mp4
 pullquote: 'LA county didn’t halt showings, so we’re still out there showing homes safely.'
 enclosure_type: video/mp4
 enclosure_time:
