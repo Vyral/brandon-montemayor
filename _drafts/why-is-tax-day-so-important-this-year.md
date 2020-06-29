@@ -19,7 +19,9 @@ youtube_code: aJLr_91E-o8
 
 {% include youtube.html %}
 
-An important day is coming up on July 15—Tax Day.
+<center><em>Tax Day is coming up! Here are a few important points to remember.</em></center>
+
+<br>An important day is coming up on July 15—Tax Day.
 
 Especially for all you 1099 business owners who have to write things off and claim certain things, you need to call us before filing your taxes this year. How you file your taxes in the next few weeks could have a huge impact on what you qualify for in the next year.
 
