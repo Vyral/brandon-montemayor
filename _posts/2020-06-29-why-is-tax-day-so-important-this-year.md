@@ -38,3 +38,5 @@ If that seems low, remember that’s assuming no debt. That’s not always reali
 That will get you something to think about and work toward because, again, with rates and inventories as low as they are, there’s no better time than now to get out there and take advantage of the market.
 
 If you have any questions, don’t hesitate to reach out to us. We look forward to hearing from you soon\!
+
+&nbsp;
