@@ -35,6 +35,6 @@ To put this into perspective, by putting 3.5% down right now, getting a $100,000
 
 If that seems low, remember that’s assuming no debt. That’s not always realistic, but as a baseline, that’s where they’ll start before working off your debt-to-income ratio.
 
-That will get you something to think about and work toward because, again, with rates and inventories as low as they are, there’s no better time than now to get out there and take advantage of the market.
+That will get you something to think about and work toward because, again, with rates and inventories as low as they are, there’s no better time than now to **get out there and take advantage of the market**.
 
 If you have any questions, don’t hesitate to reach out to us. We look forward to hearing from you soon\!
