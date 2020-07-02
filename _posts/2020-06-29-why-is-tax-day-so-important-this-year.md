@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Tax Day is coming up! Here are a few important points to remember.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/Why+Is+Tax+Day+So+Important+This+Year_.mp4
 pullquote: >-
   Right now, if you put 20% down, there are loan products out there that only
   require one year’s tax return.
