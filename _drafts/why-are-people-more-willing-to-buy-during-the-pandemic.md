@@ -17,7 +17,9 @@ youtube_code: oyp2L1zximc
 
 {% include youtube.html %}
 
-People have been asking for an update on what’s going on in the market—what are buyers and sellers doing? Well recently, LendingTree surveyed 1,000 current buyers in the market and came up with three reasons why 53% of them are more likely to purchase this year due to the pandemic.
+<center><em>The market is displaying some positive trends for both buyers and sellers.</em></center>
+
+<br>People have been asking for an update on what’s going on in the market—what are buyers and sellers doing? Well recently, LendingTree surveyed 1,000 current buyers in the market and came up with three reasons why 53% of them are more likely to purchase this year due to the pandemic.
 
 The first reason is that **we have historically low interest rates**. Since those are holding strong, buyers have more purchasing power and lower monthly payments. This, in turn, helps sellers by attracting more buyers to the market. The more buyers there are, the more offers a seller gets on their home, which increases their chances of getting the highest possible price for their property. This creates a win-win situation for buyers and sellers.
 
