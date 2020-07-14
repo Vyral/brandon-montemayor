@@ -23,7 +23,7 @@ youtube_code: oyp2L1zximc
 
 The first reason is that **we have historically low interest rates**. Since those are holding strong, buyers have more purchasing power and lower monthly payments. This, in turn, helps sellers by attracting more buyers to the market. The more buyers there are, the more offers a seller gets on their home, which increases their chances of getting the highest possible price for their property. This creates a win-win situation for buyers and sellers.
 
-Sam Khater, the chief economist at Freddie Mac, recently said, “\[...\] As the economy is slowly rebounding, all signs continue to point to a solid recovery in home sales activity heading into the summer as prospective buyers jump back into the market. Low mortgage rates are a key factor in this recovery.”
+Sam Khater, the chief economist at Freddie Mac, recently said, “\[…\] As the economy is slowly rebounding, all signs continue to point to a solid recovery in home sales activity heading into the summer as prospective buyers jump back into the market. Low mortgage rates are a key factor in this recovery.”
 
 {% include pullquote.html %}
 
