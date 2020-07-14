@@ -34,3 +34,5 @@ The third reason is that **people are re-evaluating the space in their homes**, 
 Despite all the chaos we’ve been experiencing lately, the market is displaying some positive trends for both buyers and sellers and I expect there to be many more opportunities on both sides when we come out of this.
 
 If you have any questions about the state of our market or buying and selling homes, don’t hesitate to reach out to us. We’d love to help you.
+
+&nbsp;
