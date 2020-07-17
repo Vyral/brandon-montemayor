@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'Strange as it sounds, buyers are more willing to buy during the pandemic.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/Why+Are+People+More+Willing+to+Buy+During+the+Pandemic_.mp4
 pullquote: The market is displaying some positive trends for both buyers and sellers.
 enclosure_type: video/mp4
 enclosure_time:
