@@ -25,7 +25,7 @@ Without further ado, here are the five things you should not do as a homebuyer i
 
 **1\. Don’t consolidate debt**. This might sound like a good idea, but if you’re thinking about getting into a new home and taking on more debt via a mortgage, this isn’t the best way to go. Before you consolidate your debt, check with us first.
 
-**2\. Don’t change jobs**. If you receive a promotion, get a new job in the same industry, or a new job with a reputable company, you’re probably fine. However, there is a laundry list of things that are required to make that transition go smoothly when it comes to your credit and income. You’re definitely going to have more paperwork to do if you change jobs while in the process of buying a home.
+**2\. Don’t change jobs**. If you receive a promotion, get a new job in the same industry, or a new job with a reputable company, you’re probably fine. However, there is a laundry list of things that are required to make that transition go smoothly when it comes to your credit and income. You'll definitely have more paperwork to do if you change jobs while in the process of buying a home.
 
 **3\. Don’t change banks or move money between accounts**. Lenders are very specific about paper trails and where money is coming from. Strange activity throws things off and can cause a lot more paperwork and much more frustration down the line if it isn’t handled properly.
 
