@@ -33,8 +33,8 @@ client:
     situation.
   brand: Montemayor & Associates
   brokerage:
-  market: Santa Clara
-  address: '25129 The Old Road, Ste 114<br>Stevenson Ranch, CA 91381'
+  market: Santa Clarita
+  address: '25129 The Old Rd #114<br>Stevenson Ranch, CA 91381'
   phone: (661) 510-2789
   phone_type:
   phone2:
@@ -43,10 +43,9 @@ client:
   url: 'http://bringingyouhomescv.com'
 CTAs:
   first_CTA_text: Receive a Home Valuation
-  first_CTA_URL: 'http://myscvhomefinder.com/home_value'
+  first_CTA_URL: 'https://marealestatescv.com/homevalue'
   second_CTA_text: Home Search
-  second_CTA_URL: >-
-    http://myscvhomefinder.com/search#?q_limit=36&q_prioritize=agents.0.id=F207098400%7Coffice.id=FF7000252&mlsId=347&status=1%7C3&q_sort=createdAt-&q_offset=0
+  second_CTA_URL: 'https://marealestatescv.com/homesearch'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Santa Clarita Home Worth?
@@ -54,14 +53,13 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Home Value Report
-    CTA_url: 'http://myscvhomefinder.com/home_value'
+    CTA_url: 'https://marealestatescv.com/homevalue'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: Looking for a Santa Clarita Home?
     CTA_text2: Search the entire MLS for your Santa Clara home.
     CTA_link_text2: Search the MLS
-    CTA_url2: >-
-      http://myscvhomefinder.com/search#?q_limit=36&q_prioritize=agents.0.id=F207098400%7Coffice.id=FF7000252&mlsId=347&status=1%7C3&q_sort=createdAt-&q_offset=0
+    CTA_url2: 'https://marealestatescv.com/homesearch'
 lender:
   show_section: false
   header_text: Preferred Lender
