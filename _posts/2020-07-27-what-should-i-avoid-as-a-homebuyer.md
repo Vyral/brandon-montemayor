@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Don’t ruin your home purchase by making any of these five mistakes.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/What+Should+I+Avoid+as+a+Homebuyer_.mp4
 pullquote: Don’t go out and buy new appliances or open new credit cards.
 enclosure_type: video/mp4
 enclosure_time:
