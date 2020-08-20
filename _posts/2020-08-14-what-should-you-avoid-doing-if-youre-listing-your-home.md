@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: There are five things you must avoid doing if you plan to sell your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/What+Should+You+Avoid+Doing+If+Youre+Listing+Your+Home_.mp4
 pullquote: >-
   You need to appeal to as many buyers as possible when putting your home on the
   market.
