@@ -24,9 +24,9 @@ youtube_code: _-fewtthL_Q
 
 **1\. Call someone to do the leg work for you**. Don’t head out to another area or state alone. Allow us to connect you with a qualified, experienced real estate agent who takes your needs and concerns into consideration. Don’t spend hours doing what an agent could for you. Through years of networking by way of many different channels, we’ve built relationships across the country and have used them many times. Give us a call so we can help you find the right person.
 
-**2\. Hire a professional**. Stepping into an open house, it’s easy to get stuck with an agent that doesn’t necessarily have your best interests at heart. Be aware, and ensure you have the right person in your corner. Many things are happening these days, so let someone with experience guide you.
+**2\. Hire a professional**. When stepping into an open house, it’s easy to get stuck with an agent that doesn’t necessarily have your best interests at heart. Be aware, and ensure you have the right person in your corner. Many things are happening these days, so let someone with experience guide you.
 
-**3\. Have a consultant and back-up plan**. As you’re going through the relocation process, whether you’re moving out of or into our area, we have movers and contractors all over the U.S. that can assist with whatever you need. No matter where you’re moving, you can send us the contract, and we’ll let you know if something doesn’t look right.
+**3\. Have a consultant and backup plan**. As you’re going through the relocation process, whether you’re moving out of or into our area, we have movers and contractors all over the U.S. that can assist with whatever you need. No matter where you’re moving, you can send us the contract, and we’ll let you know if something doesn’t look right.
 
 {% include pullquote.html %}
 
