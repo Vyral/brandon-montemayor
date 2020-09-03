@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: 'If you’re considering moving out of your current area, we can help.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/Are+You+Moving+Out+of+the+Area_.mp4
 pullquote: Don’t head out to another area or state alone.
 enclosure_type: video/mp4
 enclosure_time:
