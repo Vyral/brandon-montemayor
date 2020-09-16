@@ -23,13 +23,13 @@ youtube_code: qb3yIX1WNFw
 
 As we come to the end of this tumultuous year, we’re preparing for perhaps the most contentious presidential election of the century. Today, it’s important to look at the impact past presidential election years have had on the real estate market. I’ll now answer some common questions that people have about the relationship between the election and the real estate market:
 
-### **Is there a drop-off in home sales during a presidential election year?**
+#### **Is there a drop-off in home sales during a presidential election year?**
 
 BTIG, a research and analysis company, looked at new home sales from 1963 through 2019 in their report titled, “One House, Two House, Red House, Blue House.” They noted that in non-presidential election years, there is a 9.8% decrease in November compared to October. This is the normal seasonality of the market, with a slowdown in activity that’s usually seen in fall and winter.
 
 However, it also revealed that in presidential election years, the typical drop is around 15%. The report states that, “This may indicate that potential homebuyers may become more cautious in the face of national election uncertainty.”
 
-### **Are those sales lost forever?**
+#### **Are those sales lost forever?**
 
 No. BTIG said: “This caution is temporary, and ultimately results in deferred sales, as the economy, jobs, interest rates and consumer confidence all have far more meaningful roles in the home purchase decision than a presidential election result in the months that follow.”
 
@@ -37,7 +37,7 @@ In a separate study done by Meyers Research & Zonda, chief economist Ali Wolf, a
 
 {% include pullquote.html %}
 
-### **Will it matter who is elected?**
+#### **Will it matter who is elected?**
 
 To some degree, but not in the overall number of home sales. As mentioned above, consumer confidence plays a significant role in a family’s desire to buy a home. How will consumer confidence impact the housing market post-election? The BTIG report covered that as well, stating:
 
