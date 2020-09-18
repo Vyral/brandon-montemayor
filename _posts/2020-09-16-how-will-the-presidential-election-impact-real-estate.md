@@ -4,7 +4,6 @@ title: How Will the Presidential Election Impact Real Estate?
 date: 2020-09-16 00:00:00
 tags:
   - Real Estate
-  - Market Update
 excerpt: Here’s what you can expect from our market as election day looms.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/How+Will+the+Presidential+Election+Impact+Real+Estate_.mp4
