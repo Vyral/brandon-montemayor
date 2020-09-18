@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s what you can expect from our market as election day looms.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/How+Will+the+Presidential+Election+Impact+Real+Estate_.mp4
 pullquote: Overall sales should not be impacted in a significant way.
 enclosure_type: video/mp4
 enclosure_time:
