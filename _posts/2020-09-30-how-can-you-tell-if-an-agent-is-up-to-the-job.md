@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   You need to ask any potential agent these questions before deciding to hire
   them.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/How+Can+You+Tell+If+an+Agent+Is+Up+to+the+Job_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
