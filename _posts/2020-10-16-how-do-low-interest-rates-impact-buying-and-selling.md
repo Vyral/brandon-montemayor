@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: Interest rates are the lowest they’ve been in the last 50 years.
+excerpt: How will buyers and sellers be impacted?
 enclosure:
 pullquote: >-
   The price at which you purchase a home doesn’t have as much impact on your
@@ -20,7 +20,7 @@ youtube_code: v3cosGFWvo8
 
 {% include youtube.html %}
 
-<center><em>Interest rates are the lowest they&rsquo;ve been in the last 50 years.</em></center>
+<center><em>How will buyers and sellers be impacted?</em></center>
 
 <br>“I know I can sell my house for a high value right now, but I also have to buy another home at a high price, and I don’t know if it makes sense to do that.”
 
