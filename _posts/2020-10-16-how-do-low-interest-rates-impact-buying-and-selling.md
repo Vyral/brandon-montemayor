@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here's how interest rates impact buyers and sellers in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/How+Do+Low+Interest+Rates+Impact+Buying+and+Selling_.mp4
 pullquote: >-
   The price at which you purchase a home doesn’t have as much impact on your
   lifestyle as the monthly payment does.
