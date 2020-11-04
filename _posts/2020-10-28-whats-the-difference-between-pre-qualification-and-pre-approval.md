@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here are the differences between a pre-qualification and a pre-approval.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/Whats+the+Difference+Between+Pre-Qualification+and+Pre-Approval_.mp4
 pullquote: A pre-approval makes you a much more serious buyer in the eyes of sellers.
 enclosure_type: video/mp4
 enclosure_time:
