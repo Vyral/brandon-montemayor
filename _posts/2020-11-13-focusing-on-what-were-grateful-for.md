@@ -5,7 +5,8 @@ date: 2020-11-13 00:00:00
 tags:
   - Real Estate
 excerpt: This is what Montemayor & Associates is thankful for this holiday season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/Focusing+on+What+We%E2%80%99re+Grateful+For.mp4
 pullquote: We couldn’t have the lives we have without all of your support.
 enclosure_type: video/mp4
 enclosure_time:
