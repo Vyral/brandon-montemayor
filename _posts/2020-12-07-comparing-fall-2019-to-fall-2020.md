@@ -19,12 +19,10 @@ youtube_code: _4fr1pe8_Ig
 
 <center><em>The latest figures from the Santa Clarita real estate market are in.</em></center>
 
-<br>As we head past Thanksgiving and towards the new year, I wanted to bring you a quick market update on what’s going on with real estate.
-
-We’re in a unique market, to say the least. It’s not often that you have a real estate market that has advantages for buyers and sellers at the same time. **Here are the latest numbers for Santa Clarita homes in the $217,000 to $7 million:**
+<br>As we head past Thanksgiving and toward the new year, I wanted to bring you a quick market update on what’s going on with real estate. We’re in a unique market, to say the least. It’s not often that you have a real estate market that has advantages for buyers and sellers at the same time. **Here are the latest numbers for Santa Clarita homes in the $217,000 to $7 million range:**
 
 * 235 active homes, well below the level of a balanced market (800 to 1,200 active homes)
-* 94 of the 235 active listings have been on the market for 30 days or more. These homes are generally overpriced or need extensive maintenance.
+* 94 of the 235 active listings have been on the market for 30 days or more (these homes are generally overpriced or need extensive maintenance)
 * 561 pending homes
 * 366 home closings in the last 30 days
 * Less than one month of available inventory (down 38% from last year)
@@ -34,6 +32,6 @@ We’re in a unique market, to say the least. It’s not often that you have a r
 
 {% include pullquote.html %}
 
-Dealing with multiple offers isn’t the easiest thing as a buyer or seller, but that’s where us agents earn our money. Even if you’re a buyer, you can afford to bid more because we have the lowest interest rates we’ve ever seen. **Most of the increase in prices has been offset by decreased rates**.
+Dealing with multiple offers isn’t the easiest thing as a buyer or seller, but that’s where we agents earn our money. Even if you’re a buyer, you can afford to bid more because we have the lowest interest rates we’ve ever seen. **Most of the increase in prices has been offset by decreased rates**.
 
-If you have any questions about what’s going on in the market or anything else related to real estate, don’t hesitate to reach out via phone or email. We look forward to hearing from you.
+If you have questions about what’s going on in the market or anything else related to real estate, don’t hesitate to reach out via phone or email. We look forward to hearing from you.
