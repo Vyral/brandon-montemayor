@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: The latest figures from the Santa Clarita real estate market are in.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/Comparing+Fall+2019+to+Fall+2020.mp4
 pullquote: Home showings are up a whopping 62%.
 enclosure_type: video/mp4
 enclosure_time:
