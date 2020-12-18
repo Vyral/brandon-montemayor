@@ -22,4 +22,4 @@ youtube_code: jHpveXUMTrk
 
 I think this quote from C.S. Lewis does a great job of capturing my thoughts on 2020 and 2021: **“You can’t go back and change the beginning, but you can start where you are and change the ending.”**
 
-If you have any questions for me or any real estate needs in the new year, don’t hesitate to reach out via phone or email today. I look forward to hearing from you soon.
+If you have any questions for me or real estate needs in the new year, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
