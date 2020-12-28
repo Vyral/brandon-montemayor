@@ -5,7 +5,8 @@ date: 2020-12-17 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s a quick message from our entire team as we ring in 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2020/Montemayor+%26+Associates+Wish+You+a+Happy+New+Year.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
