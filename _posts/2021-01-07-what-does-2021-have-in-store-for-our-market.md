@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does 2021 Have in Store for Our Market?
-date: 2021-01-07 18:09:26
+date: 2021-01-07 18:09:00
 tags:
   - Real Estate
   - Market Update
