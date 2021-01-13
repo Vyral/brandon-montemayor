@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: These are our five major predictions for the 2021 housing market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/What+Does+2021+Have+in+Store+for+Our+Market_.mp4
 pullquote: >-
   If you looked at just the real estate market, you’d have no clue we’re in the
   middle of a pandemic or economic recession.
