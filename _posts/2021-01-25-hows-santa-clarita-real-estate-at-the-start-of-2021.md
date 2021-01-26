@@ -23,7 +23,7 @@ youtube_code: MrKjzAZVT-A
 
 <br>The first month of the new year is already flying by, so we wanted to reach out with a quick update on what we’re seeing so far this year in Santa Clarita.
 
-**Right now, we have just 137 active homes for sale in our market**. A normal, balanced market will have 700 to 800 homes, and we’re obviously well below that number that we need. We also have 402 pending home sales and 297 closed sales in the last 30 days.
+**Right now, we have just 137 active homes for sale in our market**. A normal, balanced market will have 700 to 800 homes, and we’re obviously well below that number that we need. We also had 402 pending home sales and 297 closed sales in the last 30 days.
 
 {% include pullquote.html %}
 
