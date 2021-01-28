@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   We’re starting the year firmly in a seller’s market, meaning buyers need to be
   as prepared as possible for their purchase.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/How%E2%80%99s+Santa+Clarita+Real+Estate+at+the+Start+of+2021_.mp4
 pullquote: Buyers have to be prepared to make an offer right away.
 enclosure_type: video/mp4
 enclosure_time:
