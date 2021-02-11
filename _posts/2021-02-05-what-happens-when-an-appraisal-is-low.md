@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Today I’m running through how we handle a low appraisal in this appreciating
   market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/What+Happens+When+an+Appraisal+Is+Low_.mp4
 pullquote: 'If the challenge is unsuccessful, it’s back to the negotiating table.'
 enclosure_type: video/mp4
 enclosure_time:
