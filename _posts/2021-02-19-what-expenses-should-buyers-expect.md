@@ -3,10 +3,10 @@ layout: post
 title: What Expenses Should Buyers Expect?
 date: 2021-02-19 00:00:00
 tags:
-  - Real Estate
   - Home Buyer Tips
 excerpt: Today we’ll discuss the kinds of expenses homebuyers should expect.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/What+Expenses+Should+Buyers+Expect_.mp4
 pullquote: >-
   We have a few creative options to make sure you get to the finish line with
   the right amount of money.
