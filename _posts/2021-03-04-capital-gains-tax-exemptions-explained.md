@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/03-03_MONTEMAYOR_YOUTUBE.jpg
-youtube_code:
+youtube_code: m3EKdnsn8g4
 ---
 {% include youtube.html %}
 
