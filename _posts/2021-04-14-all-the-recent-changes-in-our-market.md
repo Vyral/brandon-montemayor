@@ -27,7 +27,7 @@ Additionally, equity is high—many people completely own their homes. Even furt
 
 {% include pullquote.html %}
 
-Moving on to interest rates, we know the Fed has been working to keep rates low. Over the last few six to eight weeks, however, we’ve seen some light upward pressure on these rates. There’s been positivity with our economy, especially now that vaccines are rolling out, and the Fed may begin working to curb inflationary pressure. **If they do this, we may see interest rates increase and impact the market.**
+Moving on to interest rates, we know the Fed has been working to keep rates low. Over the last few weeks, however, we’ve seen some light upward pressure on these rates. There’s been positivity with our economy, especially now that vaccines are rolling out, and the Fed may begin working to curb inflationary pressure. **If they do this, we may see interest rates increase and impact the market.**
 
 If you’ve been thinking about buying a home within the next few months, it’d be best to start looking sooner rather than later. Because of rising interest rates, low inventory, and fierce competition, starting your search now is important for securing a home.
 
