@@ -43,9 +43,9 @@ client:
   url: 'http://bringingyouhomescv.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://marealestatescv.com/homevalue'
+  first_CTA_URL: 'https://www.bringingyouhomescv.com/home-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://marealestatescv.com/homesearch'
+  second_CTA_URL: 'https://www.bringingyouhomescv.com/results-map/?status=A'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Santa Clarita Home Worth?
@@ -53,13 +53,13 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Home Value Report
-    CTA_url: 'https://marealestatescv.com/homevalue'
+    CTA_url: 'https://www.bringingyouhomescv.com/home-valuation/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: Looking for a Santa Clarita Home?
     CTA_text2: Search the entire MLS for your Santa Clara home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://marealestatescv.com/homesearch'
+    CTA_url2: 'https://www.bringingyouhomescv.com/results-map/?status=A'
 lender:
   show_section: false
   header_text: Preferred Lender
