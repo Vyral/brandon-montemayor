@@ -5,7 +5,8 @@ date: 2021-04-14 00:00:00
 tags:
   - Market Update
 excerpt: Here’s what you should keep in mind about the recent changes in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/All+the+Recent+Changes+in+Our+Market.mp4
 pullquote: >-
   If you’ve been thinking about buying a home within the next few months, it’d
   be best to start looking sooner rather than later.
