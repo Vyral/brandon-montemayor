@@ -19,7 +19,7 @@ youtube_code: W94HPhwGmAA
 
 What are single-family homes, townhomes, and condos selling for in Santa Clarita?
 
-Before we get into that, a quick reminder: Now that we’ve switched over to a new company, we have a great new home evaluation tool and home search feature on our website, so feel free to check them out\!
+Before we get into that, a quick reminder: Now that we’ve switched over to a new website company, we have a great new home evaluation tool and home search feature on our website, so feel free to check them out\!
 
 Now back to our topic. **Here are the sale price ranges for 1-bedroom condos and townhomes in the neighborhoods in our marketplace in the last 90 days:**&nbsp;
 
