@@ -5,7 +5,7 @@ date: 2021-05-25 00:00:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
-excerpt: Beware these five misconceptions in today’s market.
+excerpt: Beware these five misconceptions when buying or selling.
 enclosure:
 pullquote: >-
   This market has changed the way you need to think about real estate in
