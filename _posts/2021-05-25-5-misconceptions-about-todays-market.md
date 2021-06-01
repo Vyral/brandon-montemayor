@@ -6,7 +6,8 @@ tags:
   - Home Seller Tips
   - Home Buyer Tips
 excerpt: Beware these five misconceptions when buying or selling.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/5+Misconceptions+About+Today%E2%80%99s+Market.mp4
 pullquote: >-
   This market has changed the way you need to think about real estate in
   general.
