@@ -5,7 +5,8 @@ date: 2021-06-14 00:00:00
 tags:
   - Home Seller Tips
 excerpt: This is why you can’t trust Zillow to give you an accurate home value.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/Does+Zillow+Give+an+Accurate+Home+Value_.mp4
 pullquote: Zillow is inconsistent in determining value.
 enclosure_type: video/mp4
 enclosure_time:
