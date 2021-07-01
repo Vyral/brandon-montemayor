@@ -5,7 +5,8 @@ date: 2021-06-28 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: If you’re looking to rent a home, watch out for this scam.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/Tips+for+Avoiding+the+Latest+Real+Estate+Scam.mp4
 pullquote: >-
   What’s happening is that scammers are finding pending listings and then
   listing them as rental properties on sites like Craigslist.
