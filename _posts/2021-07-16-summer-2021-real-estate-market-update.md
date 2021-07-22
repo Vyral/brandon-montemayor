@@ -25,4 +25,4 @@ Although our numbers are up by 100%, that isn’t enough to satisfy the demand. 
 
 **What's driving all of this?** A combination of low inventory and low interest rates is why we're seeing multiple offers and increasing prices over the last year. FHA and VA loans have rates of around 2.6%. High-balance (or jumbo) loans are around 3.4%. For people who need to sell a property, we have access to bridge loans that will help you buy before you sell at around 6%.
 
-If you have any questions about any of these loans or anything else related to real estate, give us a call. We'd love to help you out. Have a great day.
+If you have any questions about these loans or anything else related to real estate, give us a call. We'd love to help you out. Have a great day.
