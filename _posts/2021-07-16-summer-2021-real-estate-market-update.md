@@ -5,7 +5,8 @@ date: 2021-07-16 00:00:00
 tags:
   - Market Update
 excerpt: How has the Santa Clarita Valley real estate market fared so far in 2021?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/Summer+2021+Real+Estate+Market+Update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
