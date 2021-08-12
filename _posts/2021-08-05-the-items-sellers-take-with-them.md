@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: These are the things that stay and the things that go when you buy a house.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/The+Items+Sellers+Take+With+Them.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
