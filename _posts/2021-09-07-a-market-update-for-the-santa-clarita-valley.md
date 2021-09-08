@@ -27,6 +27,6 @@ Talking inventory first, **we are up to about 361 active or coming soon homes**.
 
 Things are still moving quickly, but we are seeing pockets across the valley that are slowing down a bit. Homes that aren’t in top condition are sitting a little bit longer.
 
-Is this a sign of a market shift or is it just seasonal with school starting? **We don’t know for sure, and most likely won’t for a few months**. It’s worth keeping an eye on, but keep in mind that a lot of homes are still selling in no time and above listing price.
+Is this a sign of a market shift, or is it just seasonal with school starting? **We don’t know for sure, and most likely won’t for a few months**. It’s worth keeping an eye on, but keep in mind that a lot of homes are still selling in no time and above listing price.
 
-We’ll try and keep you updated as things develop, so if you have any questions about the market or anything related to real estate, just give us a call.
+We’ll try and keep you updated as things develop, so if you have any questions about the market or anything related to real estate, just give us a call. We're always willing to help.
