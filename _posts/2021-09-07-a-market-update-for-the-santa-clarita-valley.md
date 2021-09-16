@@ -5,7 +5,8 @@ date: 2021-09-07 00:00:00
 tags:
   - Market Update
 excerpt: A short housing market update for the Santa Clarita Valley.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/A+Market+Update+For+The+Santa+Clarita+Valley.mp4
 pullquote: Again, it’s an active market out there.
 enclosure_type: video/mp4
 enclosure_time:
