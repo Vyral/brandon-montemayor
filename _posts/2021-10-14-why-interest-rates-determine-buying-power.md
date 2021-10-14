@@ -21,7 +21,7 @@ Prices are rising, but is now the time to buy? Today I want to talk about how th
 
 As far as daily life goes, you don’t live with your home's price, you live with your monthly payment. In other words, your finances are dictated by your payment, not the initial price. **Let’s take a look at what this means for your buying power:**
 
-![Buyer's Purchasing Power](/uploads/buyer-purchasing-power-700.png "Buyer's Purchasing Power"){: width="1650" height="970"}
+![Buyer's Purchasing Power](/uploads/buyer-purchasing-power-700.png "Buyer's Purchasing Power"){: width="100%" height="100%"}
 
 In this graph, you can see that price isn’t the only factor that affects your monthly payment. In fact, interest rates are a bigger determinant of your monthly payment. Right now, our interest rates are in the high two to low three range. **These are historically low interest rates**. Even though prices are rising, you can probably afford more home than you think.
 
