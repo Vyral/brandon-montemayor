@@ -5,7 +5,8 @@ date: 2021-10-14 00:00:00
 tags:
     - Home Buyer Tips
 excerpt: Increasing prices don’t necessarily mean it’s a bad time to buy.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/Why+Interest+Rates+Determine+Buying+Power.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
