@@ -5,7 +5,8 @@ date: 2021-11-08 00:00:00
 tags:
     - Home Buyer Tips
 excerpt: Beware these costs you might not anticipate before you buy.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/BRANDON_MONTEMAYOR_UNEXPECTED_HOME_BUYING_COSTS.mp4
 pullquote: A lot of people forget to budget for moving costs.
 enclosure_type: video/mp4
 enclosure_time:
