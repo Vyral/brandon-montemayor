@@ -24,15 +24,15 @@ Inventory started to increase a few months ago, moving towards 400 homes on the 
 
 {% include pullquote.html %}
 
-Currently, we have 230 active homes with 469 pending and 381 that have closed in the last 30 days. **That’s less than a month’s worth of inventory which means it’s still an extreme seller’s market.**
+Currently, we have 230 active homes with 469 pending and 381 that have closed in the last 30 days. **That’s less than a month’s worth of inventory which, means it’s still an extreme seller’s market.**
 
-* Stevenson Ranch only has 10 homes available right now. Five cost over $1 million, and the other five are under $1 million.&nbsp;
+* Stevenson Ranch only has 10 homes available right now. Five are listed over $1 million, and the other five are under $1 million.&nbsp;
 
 * Valencia has 55 available homes. Nine are over $1 million; 46 are under.
 
 * Newhall has 25 homes, with four over $1 million and 21 under.
 
-* In Saugus, there are 49 homes available. 10 of them cost over $1 million, and 39 cost less.
+* In Saugus, there are 49 homes available. 10 of them are listed over $1 million, and 39 are listed below $1 million.
 
 * Canyon Country has 60 available homes, with 14 homes over $1 million and 46 under.
 
