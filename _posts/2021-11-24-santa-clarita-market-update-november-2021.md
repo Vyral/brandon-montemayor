@@ -4,9 +4,9 @@ title: 'Santa Clarita Market Update: November 2021'
 date: 2021-11-24 00:00:00
 tags:
   - Market Update
-  - Real Estate
 excerpt: Here are the latest numbers for our local Santa Clarita market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/Santa+Clarita+Market+Update_+November+2021.mp4
 pullquote: Inventory is still very low in the Santa Clarita area.
 enclosure_type: video/mp4
 enclosure_time:
