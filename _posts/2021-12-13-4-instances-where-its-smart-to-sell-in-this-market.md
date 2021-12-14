@@ -23,9 +23,9 @@ It’s no secret that the market is starting to shift and change. Prices aren’
 
 Although inventory is still low, we’re starting to see buyer fatigue set in. Some buyers who have been looking for a home for the past year have gotten burnt out and have backed out of the market entirely. The holidays play a role in this as well.
 
-So, is now a good time for you to sell? It may be, it may not. It depends on your specific situation. However, **you may want to consider selling your home now if it falls into one of these categories:**
+So, is now a good time for you to sell? It may be, it may not. It depends on your specific situation. However, **you should consider selling your home now if it falls into one of these categories:**
 
-**1\. Bad location.** If you’re near a busy road that affects the home, buyers will have more to choose from as inventory rebuilds and they may steer clear of your home. You might get more money and attention for that home right now.
+**1\. Bad location.** If you’re near a busy road that affects the home, buyers will have more to choose from as inventory rebuilds, and they may steer clear of your home. You might get more money and attention for that home right now.
 
 **2\. Functional obsolescence.** If you have a detached garage, for example, or a home with smaller bedrooms, this also may be a great time to consider selling before buyers start to get pickier.
 
