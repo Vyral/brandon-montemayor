@@ -13,8 +13,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/01-04-montemayor-youtube.jpg
 youtube_code: wub4ppn0kfE
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 One of the things people like to talk about in January is financial goals for the year. When thinking about your financial goals, consider what you plan to do with your home and its equity. Today we'll talk about 2021, your equity, and taxes.
