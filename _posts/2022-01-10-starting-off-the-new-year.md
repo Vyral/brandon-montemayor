@@ -5,7 +5,8 @@ date: 2022-01-10 18:29:22
 tags:
   - Real Estate
 excerpt: 'We hope you have a great 2022—feel free to reach out to us for anything! '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2021/Starting+Off+the+New+Year.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
