@@ -22,6 +22,6 @@ We are rolling into the new year. We hope you and your loved one had an amazing 
 
 **On behalf of the whole team, I want to wish you a fantastic 2022.** If there’s anything we can do to help you, whether it’s related to real estate or not, we would love to help. We have a ton of resources here in Santa Clarita, so put us to work.&nbsp;
 
-**Let’s quickly go over what the market’s doing.** We’re seeing an all-time low with inventory. We are down to 110 homes, and there’s a good chance it might drop below 100. There’s also been talk of interest rates going up.
+**Let’s quickly go over what the market’s doing.** Inventory is at an all-time low. We are down to 110 homes, and there’s a good chance it might drop below 100. There’s also been talk of interest rates going up.
 
 Of course, we’ll do our best to keep you updated on our market as we head further into 2022. As always, if you need anything from us, don’t hesitate to call. We look forward to hearing from you.
