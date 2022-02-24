@@ -4,11 +4,9 @@ title: 4 Things Buyers Should Know About Today’s Market
 date: 2022-02-21 00:00:00
 tags:
   - Home Buyer Tips
-excerpt: The four things that buyers in our current market should keep in mind.
+excerpt: These are four things that buyers in our current market should keep in mind.
 enclosure:
-pullquote: >-
-  In this market, we need to have a solid plan.In this market, we need to have a
-  solid plan.
+pullquote: In this market, we need to have a solid plan.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -23,7 +21,7 @@ Today we want to talk to all the buyers out there, including those who need to b
 
 **1\. The approval process.** Get in touch with a lender to figure out what you qualify for, what your payment will be, and what type of down payment you need. If you’re thinking about buying soon, be careful not to make huge payments, bring on new recurring debt, max out a credit card, or open new credit cards.
 
-**2\. Rising interest rates.** Over the last few months, we’ve kept hearing that interest rates will increase this year. Keep in mind that over the past 50 years, interest rates have spent only 12 months under 3%, 16 months between 3% and 3.5%, and 55 months between 3.5% and 3.99%. Rates have spent 517 over 4%. Anything below 4% is still historically low, so don't let the news scare you off a smart purchase.
+**2\. Rising interest rates.** Over the last few months, we’ve kept hearing that interest rates will increase this year. Keep in mind that over the past 50 years, interest rates have spent only 12 months under 3%, 16 months between 3% and 3.5%, and 55 months between 3.5% and 3.99%. Rates have spent 517 months over 4%. Anything below 4% is still historically low, so don't let the news scare you off a smart purchase.
 
 {% include pullquote.html %}
 
