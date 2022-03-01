@@ -5,7 +5,8 @@ date: 2022-02-21 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: These are four things that buyers in our current market should keep in mind.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2022/4+Things+Buyers+Should+Know+About+Today's+Market+(1).mp4
 pullquote: In this market, we need to have a solid plan.
 enclosure_type: video/mp4
 enclosure_time:
