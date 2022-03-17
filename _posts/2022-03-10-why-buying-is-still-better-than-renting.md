@@ -5,7 +5,8 @@ date: 2022-03-10 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Four reasons why buying is still a better option than renting.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2022/Why+Buying+Is+Still+Better+Than+Renting.mp4
 pullquote: When you pay rent, you’re building your landlord’s equity instead of your own.
 enclosure_type: video/mp4
 enclosure_time:
