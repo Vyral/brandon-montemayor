@@ -23,4 +23,4 @@ According to a recent survey by Freddie Mac, **nearly two in five potential home
 
 When you combine that with historically-low interest rates, **a lot of buyers out there are willing to overlook the imperfections.**
 
-If you’re thinking of selling in the near future, your laundry list of upgrades may not be as long as you think. If you have any questions at all about selling your home or the market in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you’re thinking of selling in the near future, your list of necessary upgrades may not be as long as you think. If you have any questions at all about selling your home or the market in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
