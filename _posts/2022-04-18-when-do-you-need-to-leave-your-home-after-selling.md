@@ -6,7 +6,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Sellers can get top dollar and favorable terms in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2022/When+Do+You+Need+To+Leave+Your+Home+After+Selling_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
