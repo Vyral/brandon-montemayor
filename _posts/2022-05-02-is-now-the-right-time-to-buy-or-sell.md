@@ -20,7 +20,7 @@ youtube_code: We692dqH70o
 
 When is the right time to buy or sell? Those are the two questions we’ve been receiving most often lately. Here are four things you need to consider when deciding whether or not to make a move;
 
-**1\. Talk to a local real estate expert.** We hear all kinds of things on the news about inflation, interest rates, and lack of inventory, but you need to know what’s happening in your local market. Even if you’re buying in another area, we can connect you with a great real estate agent in that area so that your entire transaction aligns well. Don’t focus on just the national or state-wide news, you need to know hyperlocal information.&nbsp;
+**1\. Talk to a local real estate expert.** We hear all kinds of things on the news about inflation, interest rates, and lack of inventory, but you need to know what’s happening in your local market. Even if you’re buying somewhere else, we can connect you with a great real estate agent in that area so that your entire transaction aligns well. Don’t focus on just the national or state-wide news, you need to know hyperlocal information.&nbsp;
 
 **2\. Interest rates fluctuate.** Again, there’s been plenty of talk about interest rates increasing, but they also sometimes pull back. We have excellent lenders who know how to get creative with loans to help you. For example, they may be able to help you get a smaller down payment and use the money to pay down your rate. Don’t get caught up in the final sales price; we can walk you through everything. You might miss a great opportunity right now if you simply sit on the sidelines.&nbsp;
 
