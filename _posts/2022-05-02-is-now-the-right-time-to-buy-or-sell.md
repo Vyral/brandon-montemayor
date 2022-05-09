@@ -6,7 +6,9 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Four factors to consider when deciding whether to buy or sell now or wait.
-enclosure:
+enclosure: >-
+  s3://vyralmarketing/Brandon Montemayor/Videos/2022/Is Now the Right Time To
+  Buy or Sell_.mp4
 pullquote: We have excellent lenders who know how to get creative with loans.
 enclosure_type: video/mp4
 enclosure_time:
