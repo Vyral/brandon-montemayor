@@ -4,7 +4,7 @@ title: Debunking 4 Key Real Estate Myths
 date: 2022-05-16 21:48:06
 tags:
   - Market Update
-excerpt: Today I’m addressing and debunking four key buyer and seller myths.
+excerpt: ' Addressing and debunking fourimportant buyer and seller myths.'
 enclosure:
 pullquote: >-
   Partner with a real estate professional for expert advice on which home
@@ -27,11 +27,11 @@ In reality, experts say prices and rates will continue to rise this year. That m
 
 **Seller Myth: “I can set the asking price for my house to whatever I want.”**
 
-You can’t just pick any price and expect it to sell for top dollar. Today's buyers market are being a little bit pickier because they believe the market is shifting. Pricing your house appropriately for the market takes expertise. A real estate professional can help you set a competitive price that will generate multiple qualified offers and ultimately get you the best price. Even homes in need of upgrades receive immediate attention if they’re priced well.
+You can’t just pick any price and expect your home to sell for top dollar. Today's buyers market are being a little bit pickier because they believe the market is shifting. Pricing your house appropriately for the market takes expertise. A real estate professional can help you set a competitive price that will generate multiple qualified offers and ultimately get you the best price. Even homes in need of upgrades receive immediate attention if they’re priced well.
 
 {% include pullquote.html %}
 
-**Buyer Myth: “Waiving the home inspection is a good idea if I want my offer to stand out.”**
+**Buyer Myth: “Waiving the home inspection is a good idea if I want my offer to stand out to sellers.”**
 
 Though we often recommend that our buyers reduce the number of contingencies in their offers or even buy a home as is, waiving your home inspection is not a good idea. An inspection tells you the condition of the home and can help prevent unpleasant surprises. Waiving it could cost you.&nbsp;**Seller Myth: “I have to renovate my house before selling it.”**
 
