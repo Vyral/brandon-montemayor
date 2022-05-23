@@ -5,7 +5,8 @@ date: 2022-05-16 21:48:06
 tags:
   - Market Update
 excerpt: ' Addressing and debunking fourimportant buyer and seller myths.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2022/Debunking+4+Key+Real+Estate+Myths.mp4
 pullquote: >-
   Partner with a real estate professional for expert advice on which home
   projects would ultimately boost your bottom line. 
