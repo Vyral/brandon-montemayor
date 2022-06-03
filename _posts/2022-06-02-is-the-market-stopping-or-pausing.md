@@ -19,7 +19,7 @@ youtube_code: DkHJULB9xvM
 
 What’s going on in our real estate market? Some properties are sitting on the market longer than expected, and others have even had to reduce their prices. Today we want to explain why this is happening and what it means for you.
 
-One of the main causes of our shifting market is rising interest rates. Any time rates increase, buyers need to pause and adjust. Interest rates dramatically affect purchasing power, so **many buyers need to get requalified by their lenders and reexamine what they can afford. **
+One of the main causes of our shifting market is rising interest rates. Any time rates increase, buyers need to pause and adjust. Interest rates dramatically affect purchasing power, so **many buyers need to get requalified by their lenders and reexamine what they can afford.**
 
 If you look at the chart at 1:27 in the video, you can see how interest rates affect purchasing power. Let’s say a buyer wants to keep their monthly payment around $4,000. For a 30-year-fixed loan with 20% down, this buyer could buy an $880,000 home with a 3% interest rate. At our current rate of 5.25%, this same buyer can only afford a $708,000 house.
 
