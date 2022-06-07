@@ -5,7 +5,8 @@ date: 2022-06-02 18:31:46
 tags:
   - Market Update
 excerpt: 'Here’s how rising rates affect affordability and purchasing power. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2022/Is+the+Market+Stopping+or+Pausing_.mp4
 pullquote: 'Any time rates increase, buyers need to pause and adjust. '
 enclosure_type: video/mp4
 enclosure_time:
