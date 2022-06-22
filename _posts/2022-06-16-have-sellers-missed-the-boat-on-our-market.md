@@ -3,8 +3,10 @@ layout: post
 title: Have Sellers Missed the Boat on Our Market?
 date: 2022-06-16 18:20:38
 tags:
+  - Home Seller Tips
 excerpt: 'How you can secure a fantastic deal even in this shifting market. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandon+Montemayor/Videos/2022/Have+Sellers+Missed+the+Boat+on+Our+Market_.mp4
 pullquote: 'You need to work with an experienced team to win in this market. '
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,10 +24,10 @@ The truth is that it’s impossible to tell when the peak of a market is until w
 
 {% include pullquote.html %}
 
-For example, affordability is becoming an issue for some buyers. This doesn’t mean you’ll get nothing but low offers; however, **you need to be careful about how you price your home.** If you overprice your home expecting 20 offers to fly in within the first few hours, it could sit on the market for a long time.&nbsp;
+For example, affordability is becoming an issue for some buyers. This doesn’t mean you’ll get nothing but low offers; however, **you need to be careful about how you price your home.** If you overprice your home expecting 20 offers to fly in within the first few hours, it could sit on the market for a long time.
 
-This is because rising interest rates have put a dent in buyers’ purchasing power. Let’s look at an example. If a buyer was looking to purchase a $1 million home six months ago, they can now likely only afford a $900,000 house.&nbsp;
+This is because rising interest rates have put a dent in buyers’ purchasing power. Let’s look at an example. If a buyer was looking to purchase a $1 million home six months ago, they can now likely only afford a $900,000 house.
 
-If this sounds scary, don’t worry. **Prices are still at all-time highs, and there are plenty of motivated buyers willing to give you a great deal.** You just may need to be smarter about how you approach this market.&nbsp;
+If this sounds scary, don’t worry. **Prices are still at all-time highs, and there are plenty of motivated buyers willing to give you a great deal.** You just may need to be smarter about how you approach this market.
 
-If you want to work with an experienced team to help you take advantage of this market, please call or email us. We are always willing to help\!&nbsp;
+If you want to work with an experienced team to help you take advantage of this market, please call or email us. We are always willing to help\!
