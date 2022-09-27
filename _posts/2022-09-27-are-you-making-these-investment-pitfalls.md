@@ -34,6 +34,6 @@ There’s no doubt about it—the market has shifted. Interest rates are up, and
 
 **6\. Not looking into other areas of the state.** Home appreciation in some states may not be great, but their rents are consistent and can potentially offer you a stable cash flow. Learn what your goals are, and then you can start looking into other markets.&nbsp;
 
-**7\. Doing everything by yourself.** Don’t try to do everything by yourself. All the best investors out there have an amazing team behind them. Whether you want to invest locally or out of the area, we can help you make the best real estate investment decision.&nbsp;
+**7\. Doing everything by yourself.** Don’t try to do everything by yourself. Whether you want to invest locally or out of the area, we can help you make the best real estate investment decision.&nbsp; All the best investors out there have an amazing team behind them.
 
 If you need more help with your real estate investment or have any related questions, reach out to us by giving us a call or sending an email. We’re here to help\!
