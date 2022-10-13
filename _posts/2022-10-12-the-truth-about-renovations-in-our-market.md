@@ -19,9 +19,9 @@ youtube_code: gMLSbFerHq0
 
 “Does it still make sense to renovate my home before selling, or should I just list as soon as possible?” Since the market is shifting, we’ve been receiving this question a lot. Here are our thoughts on the issue.&nbsp;
 
-After interest rates increased, fewer buyers have been in our market looking for homes. As a result, now more than ever **your home needs to stand out.** That’s why we recommend sellers do renovations before listing.&nbsp;
+After interest rates increased, fewer buyers have been in our market looking for homes. As a result, now more than ever ,&nbsp;**your home needs to stand out.** That’s why we recommend sellers do renovations before listing.&nbsp;
 
-That being said, your expectations should be different in this market. Before, we only recommended a seller do a project if we thought they would receive two dollars back for every one they put into it. **Now, a project is a good investment if you break even.** In this market, you won’t make extra money from your renovations; however, your home will sell quickly and for top dollar before the market shifts further, so it’s worth it.&nbsp;
+That being said, your expectations should be different in this market. Before, we only recommended that to a seller do a project if we thought they would receive two dollars back for every one they put into it. **Now, a project is a good investment if you break even.** In this market, you won’t make extra money from your renovations; however, your home will sell quickly and for top dollar before the market shifts further, so it’s worth it.&nbsp;
 
 According to the National Association of Realtors, installing refinished hardwood floors, upgrading your insulation, and replacing your garage door are all great investments in this market.&nbsp;
 
