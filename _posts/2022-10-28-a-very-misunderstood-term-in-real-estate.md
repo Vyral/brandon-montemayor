@@ -10,7 +10,7 @@ pullquote: The term “as-is” applies to almost all real estate purchases in C
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/10-26-montemayor-youtube.jpg
+youtube_alternate_image: /uploads/11-01-montemayor-youtube.jpg
 youtube_code: Rx9jlI5fUYE
 ---
 {% include youtube.html %}
